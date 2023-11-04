@@ -4146,7 +4146,7 @@ input[type=submit]:focus {
   background-position: center center;
   position: relative;
   z-index: 1;
-  padding-top: 100px;
+  padding-top: 40px;
   background-size: cover;
 }
 .site-footer .footer-overlay {
@@ -5888,7 +5888,7 @@ input[type=submit]:focus {
   border-radius: 30px;
 }
 .vacancy-container .vacancy-form h4 {
-  background-color: #41246D;
+  background-color: #000000;
   color: white;
   padding: 14px;
   border-radius: 30px;
@@ -5929,7 +5929,7 @@ input[type=submit]:focus {
   height: 59px;
 }
 .vacancy-container .vacancy-form input[type=submit] {
-  background-color: #F24080;
+  background-color: #41246d;
   color: #ffffff;
   padding: 16px 28px;
   font-size: 15px;
