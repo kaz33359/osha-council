@@ -601,6 +601,7 @@ a:visited {
   position: relative;
   margin-bottom: 20px;
   height: 17px;
+  margin-top: 20px;
 }
 .title-divider:before {
   mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='4' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cpolyline points='0,18 12,6 24,18 '/%3E%3C/svg%3E");
@@ -6377,7 +6378,7 @@ input[type=submit]:focus {
   }
 }
 .course-detail-section .tab-container .nav-item a {
-  color: #292929;
+  color: #F24080;   
   font-size: 18px;
   font-weight: 700;
   line-height: 1.7;
@@ -6435,7 +6436,7 @@ input[type=submit]:focus {
 }
 .course-detail-section .sidebar .brochure {
   margin-top: -70px;
-  padding: 100px 30px 26px 30px;
+  /* padding: 100px 30px 26px 30px; */
 }
 .course-detail-section .sidebar .brochure .enroll-coures-btn {
   margin-top: 30px;
